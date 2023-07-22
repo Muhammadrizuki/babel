@@ -12,7 +12,7 @@ const Product = () => {
     <div className='max-w-[900px] mx-auto py-16 px-4 text-center'>
         <h1>{t('product.header')}</h1>
         <p>{t('product.body')}</p>
-        <div className='grid grid-rows-none grid-cols-2 md:grid-cols-4 py-5 gap-2 md:gap-4'>
+        <div className='grid grid-rows-2 md:grid-rows-none grid-cols-2 md:grid-cols-4 py-5 gap-2 md:gap-4'>
             <div className='relative aspect-w-1 aspect-h-1'>
                 <img src={pro1} alt='/' className='object-cover'/>
                 <div className='bg-gray-900/30 absolute top-0 left-0 w-full h-full'>
