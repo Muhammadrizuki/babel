@@ -1,0 +1,35 @@
+{
+    "hero": {
+        "header": "Come Visit Batu Belerang",
+        "body": "Hidden Gems at Indonesia"
+    },
+    "destination": {
+        "header": "Discover the Extraordinary",
+        "body": "Your Ultimate Destination Awaits!"
+    },
+    "info": {
+        "header": "WHY VISIT BATU BELERANG?",
+        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel ipsum odio. Integer sit amet tellus nec libero tincidunt vestibulum. Suspendisse at dolor ac massa cursus consectetur. Sed pulvinar scelerisque nulla nec luctus. Sed ut turpis a magna placerat varius ac sit amet arcu. Maecenas bibendum odio nec odio scelerisque facilisis. Pellentesque convallis libero et arcu elementum congue. Donec vitae arcu nec arcu vehicula laoreet at sit amet ipsum.\nNullam euismod interdum libero, non efficitur elit volutpat eu. Proin eu tellus et ligula tempor elementum. Nullam tincidunt turpis vel ligula pellentesque dignissim. Curabitur nec lacinia elit, sit amet rhoncus erat. Duis a orci et turpis facilisis malesuada a et odio. Sed ullamcorper, nunc vitae pellentesque fermentum, odio mi tincidunt quam, vel suscipit elit felis nec nibh. Integer in facilisis lorem, in lacinia nunc. Nunc tristique est velit, nec maximus orci dictum a. Mauris at euismod ex. Integer ultrices diam eget ex laoreet lacinia. Nam auctor magna sit amet mauris iaculis, nec rutrum lacus vestibulum. Nullam auctor congue erat, at auctor felis dapibus eu. Sed sit amet bibendum mauris. Vestibulum eu dui non est suscipit mattis. Suspendisse potenti. Sed hendrerit, orci nec fermentum hendrerit, orci libero feugiat tortor, eget tincidunt neque elit a ex."
+    },
+    "product": {
+        "header": "Preserve the Magic",
+        "body": "Shop Our Exclusive Vacation Mementos"
+    },
+    "pack": {
+        "header": "Unlock the Beauty of Travel",
+        "body": "Exclusive Vacation Packages for Discerning Explorers!",
+        "pack01": {
+            "header": "Pack01",
+            "body": "pack body"
+        },
+        "pack02": {
+            "header": "Pack02",
+            "body": "pack body"
+        },
+        "pack03": {
+            "header": "Pack03",
+            "body": "pack body"
+        },
+        "book" : "Book"
+    }
+}
