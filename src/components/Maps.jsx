@@ -21,7 +21,7 @@ const Maps = () => {
                 <MdLocationOn size={70}/>
                 <p>BRIDGE OF LOVE</p>
             </div>
-            <div className='flex flex-col aspect-w-1 aspect-h-1 items-center text-center col-span-2 md:col-span-none'>
+            <div className='flex flex-col aspect-w-1 aspect-h-1 items-center text-center col-span-2 md:col-span-1'>
                 <MdLocationOn size={70}/>
                 <p>TWIN WATERFALL</p>
             </div>

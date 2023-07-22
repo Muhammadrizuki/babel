@@ -9,7 +9,7 @@ const Pack = () => {
     <div className='mx-auto py-16 px-4 md:px-64 text-center bg-slate-300'>
         <h1>{t('pack.header')}</h1>
         <p>{t('pack.body')}</p>
-        <div className='w-full grid grid-rows-none md:grid-cols-3 py-5 gap-2 md:gap-4 items-center'>
+        <div className='w-full grid grid-rows-none md:grid-cols-3 py-5 gap-2 md:gap-4 items-center px-4'>
             <div className="bg-white rounded-lg shadow-lg p-6">
                 <h2 className="text-xl font-semibold mb-4">{t('pack.pack01.header')}</h2>
                 <p className="text-gray-600">{t('pack.pack01.body')}</p>
