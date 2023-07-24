@@ -18,7 +18,7 @@ const Info = () => {
         <div className='flex justify-center items-center'>
             <div className='p-10'>
                 <iframe 
-                src="https://www.youtube.com/embed/wKRL7vkWMoc"
+                src="https://www.youtube.com/embed/Dsx5J0f5BjI"
                 allow="autoplay; encrypted-media"
                 allowFullScreen
                 ></iframe>
