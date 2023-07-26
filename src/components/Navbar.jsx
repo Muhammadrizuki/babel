@@ -17,7 +17,7 @@ const Navbar = () => {
           <h1>BA.BEL</h1>
         </div>
         <div className='flex'>
-          <MdLanguage className='cursor-pointer' size={25} onClick={() => isClicked ? (handleChangeLanguage('id'), setIsClicked(!isClicked)) : (handleChangeLanguage('en'), setIsClicked(!isClicked))}/>
+          <MdLanguage className='cursor-pointer hover:fill-slate-400 transition-colors ease-in' size={25} onClick={() => isClicked ? (handleChangeLanguage('id'), setIsClicked(!isClicked)) : (handleChangeLanguage('en'), setIsClicked(!isClicked))}/>
         </div>
     </div>
   )

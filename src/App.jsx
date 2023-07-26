@@ -1,25 +1,15 @@
-import Destination from "./components/Destination"
-import Hero from "./components/Hero"
-import Info from "./components/Info"
-import Maps from "./components/Maps"
-import Navbar from "./components/Navbar"
-import Pack from "./components/Pack"
-import Product from "./components/Product"
+import { BrowserRouter, Routes, Route } from "react-router-dom"
+import Home from './components/Home';
+import Detail from './components/Detail';
 
 function App() {
-
   return (
-    <>
-      <div>
-        <Navbar />
-        <Hero />
-        <Destination />
-        <Info />
-        <Product />
-        <Maps />
-        <Pack />
-      </div>
-    </>
+    <BrowserRouter>
+        <Routes basename="/babel">
+          <Route path="/babel/" exact element={<Home />} />
+          <Route path="/babel/detail/" element={<Detail />} />
+        </Routes>
+    </BrowserRouter>
   )
 }
 

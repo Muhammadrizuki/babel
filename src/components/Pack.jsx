@@ -13,16 +13,17 @@ const Pack = () => {
             <div className="bg-white rounded-lg shadow-lg p-6">
                 <h2 className="text-xl font-semibold mb-4">{t('pack.pack01.header')}</h2>
                 <p className="text-gray-600">{t('pack.pack01.body')}</p>
-                <button className="bg-blue-500 text-white px-4 py-2 mt-4 rounded">{t('pack.book')}</button>
+                <button className="bg-blue-500 text-white px-4 py-2 mt-4 rounded hover:bg-blue-700 transition-colors ease-in">{t('pack.book')}</button>
             </div>
             <div className="bg-white rounded-lg shadow-lg p-6">
                 <h2 className="text-xl font-semibold mb-4">{t('pack.pack02.header')}</h2>
                 <p className="text-gray-600">{t('pack.pack02.body')}</p>
-                <button className="bg-blue-500 text-white px-4 py-2 mt-4 rounded">{t('pack.book')}</button>
-            </div><div className="bg-white rounded-lg shadow-lg p-6">
-                <h2 className="text-xl font-semibold mb-4">{t('pack.pack03.header')}</h2>
+                <button className="bg-blue-500 text-white px-4 py-2 mt-4 rounded hover:bg-blue-700 transition-colors ease-in">{t('pack.book')}</button>
+            </div>
+            <div className="bg-white rounded-lg shadow-lg p-6">
+                <h2 className="text-xl font-semibold mb-4 ">{t('pack.pack03.header')}</h2>
                 <p className="text-gray-600">{t('pack.pack03.body')}</p>
-                <button className="bg-blue-500 text-white px-4 py-2 mt-4 rounded">{t('pack.book')}</button>
+                <button className="bg-blue-500 text-white px-4 py-2 mt-4 rounded hover:bg-blue-700 transition-colors ease-in">{t('pack.book')}</button>
             </div>
         </div>
     </div>
